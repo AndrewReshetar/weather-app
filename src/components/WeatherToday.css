@@ -1,0 +1,16 @@
+.weatherToday{
+    height: 300px;   
+}
+
+.mainBlock{
+    background-color: rgba(255,255,255, .2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    font-size: large;
+}
+
+.image{
+    width: 30%;
+}
